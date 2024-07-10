@@ -10,4 +10,6 @@
 
 ## LICENSE
 
-The source code is licensed MIT. Copyright© 2023, AMD lab & Saito40
+RhinocerosおよびGrasshopperはRobert McNeel & Associatesの登録商標です。
+
+The source code is unlicensed.
